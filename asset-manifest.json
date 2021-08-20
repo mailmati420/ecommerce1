@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ecommerce1/static/css/main.66458e39.chunk.css",
+    "main.css": "/ecommerce1/static/css/main.4fb76cb9.chunk.css",
     "main.js": "/ecommerce1/static/js/main.a5eab367.chunk.js",
     "main.js.map": "/ecommerce1/static/js/main.a5eab367.chunk.js.map",
     "runtime-main.js": "/ecommerce1/static/js/runtime-main.0063f3d4.js",
@@ -12,7 +12,7 @@
     "static/js/3.243ac2d1.chunk.js.map": "/ecommerce1/static/js/3.243ac2d1.chunk.js.map",
     "index.html": "/ecommerce1/index.html",
     "static/css/2.3dea53ca.chunk.css.map": "/ecommerce1/static/css/2.3dea53ca.chunk.css.map",
-    "static/css/main.66458e39.chunk.css.map": "/ecommerce1/static/css/main.66458e39.chunk.css.map",
+    "static/css/main.4fb76cb9.chunk.css.map": "/ecommerce1/static/css/main.4fb76cb9.chunk.css.map",
     "static/js/2.941051a4.chunk.js.LICENSE.txt": "/ecommerce1/static/js/2.941051a4.chunk.js.LICENSE.txt",
     "static/media/1.png": "/ecommerce1/static/media/1.38e6969e.png",
     "static/media/2.png": "/ecommerce1/static/media/2.260ee83a.png",
@@ -40,7 +40,7 @@
     "static/js/runtime-main.0063f3d4.js",
     "static/css/2.3dea53ca.chunk.css",
     "static/js/2.941051a4.chunk.js",
-    "static/css/main.66458e39.chunk.css",
+    "static/css/main.4fb76cb9.chunk.css",
     "static/js/main.a5eab367.chunk.js"
   ]
 }
