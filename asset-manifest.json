@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ecommerce1/static/css/main.32872596.chunk.css",
-    "main.js": "/ecommerce1/static/js/main.4a95e87d.chunk.js",
-    "main.js.map": "/ecommerce1/static/js/main.4a95e87d.chunk.js.map",
+    "main.js": "/ecommerce1/static/js/main.663e6869.chunk.js",
+    "main.js.map": "/ecommerce1/static/js/main.663e6869.chunk.js.map",
     "runtime-main.js": "/ecommerce1/static/js/runtime-main.71fa2f93.js",
     "runtime-main.js.map": "/ecommerce1/static/js/runtime-main.71fa2f93.js.map",
     "static/css/2.3dea53ca.chunk.css": "/ecommerce1/static/css/2.3dea53ca.chunk.css",
-    "static/js/2.6e2819a8.chunk.js": "/ecommerce1/static/js/2.6e2819a8.chunk.js",
-    "static/js/2.6e2819a8.chunk.js.map": "/ecommerce1/static/js/2.6e2819a8.chunk.js.map",
+    "static/js/2.1e72ae94.chunk.js": "/ecommerce1/static/js/2.1e72ae94.chunk.js",
+    "static/js/2.1e72ae94.chunk.js.map": "/ecommerce1/static/js/2.1e72ae94.chunk.js.map",
     "static/js/3.e7c2646b.chunk.js": "/ecommerce1/static/js/3.e7c2646b.chunk.js",
     "static/js/3.e7c2646b.chunk.js.map": "/ecommerce1/static/js/3.e7c2646b.chunk.js.map",
     "index.html": "/ecommerce1/index.html",
     "static/css/2.3dea53ca.chunk.css.map": "/ecommerce1/static/css/2.3dea53ca.chunk.css.map",
     "static/css/main.32872596.chunk.css.map": "/ecommerce1/static/css/main.32872596.chunk.css.map",
-    "static/js/2.6e2819a8.chunk.js.LICENSE.txt": "/ecommerce1/static/js/2.6e2819a8.chunk.js.LICENSE.txt",
+    "static/js/2.1e72ae94.chunk.js.LICENSE.txt": "/ecommerce1/static/js/2.1e72ae94.chunk.js.LICENSE.txt",
     "static/media/420z purple.jpg": "/ecommerce1/static/media/420z purple.6e0d45c4.jpg",
     "static/media/Cyclone mean green.jpg": "/ecommerce1/static/media/Cyclone mean green.1bfeec74.jpg",
     "static/media/Cyclone_mean_green1.jpg": "/ecommerce1/static/media/Cyclone_mean_green1.47f51d6b.jpg",
@@ -41,8 +41,8 @@
     "static/media/green ash tray.jpg": "/ecommerce1/static/media/green ash tray.bc3adf7b.jpg",
     "static/media/high.png": "/ecommerce1/static/media/high.c82fbfeb.png",
     "static/media/hoddie.png": "/ecommerce1/static/media/hoddie.0d898eec.png",
-    "static/media/logo.png": "/ecommerce1/static/media/logo.c9ee5d45.png",
     "static/media/logo1.png": "/ecommerce1/static/media/logo1.c7d0a9a4.png",
+    "static/media/logo2.png": "/ecommerce1/static/media/logo2.5eac0784.png",
     "static/media/lung ashtray.jpg": "/ecommerce1/static/media/lung ashtray.2c6332ec.jpg",
     "static/media/smoking kukuxumusu.jpg": "/ecommerce1/static/media/smoking kukuxumusu.8dbe0625.jpg",
     "static/media/smoking kukuxumusu1.jpg": "/ecommerce1/static/media/smoking kukuxumusu1.08972012.jpg",
@@ -54,8 +54,8 @@
   "entrypoints": [
     "static/js/runtime-main.71fa2f93.js",
     "static/css/2.3dea53ca.chunk.css",
-    "static/js/2.6e2819a8.chunk.js",
+    "static/js/2.1e72ae94.chunk.js",
     "static/css/main.32872596.chunk.css",
-    "static/js/main.4a95e87d.chunk.js"
+    "static/js/main.663e6869.chunk.js"
   ]
 }
