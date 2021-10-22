@@ -3,6 +3,17 @@
 export const ProductData = [
   {
     id: "1",
+    images: [
+      {
+        image: require("./ImagesPapers/420z.png").default,
+      },
+      {
+        image: require("./ImagesPapers/420z1.png").default,
+      },
+      {
+        image: require("./ImagesPapers/420zback.png").default,
+      },
+    ],
     image: require("./ImagesPapers/420z.png").default,
     text: "420z king size ultra thin papers",
     star: 3,
@@ -14,6 +25,17 @@ export const ProductData = [
   },
   {
     id: "2",
+    images: [
+      {
+        image: require("./ImagesPapers/elements main.png").default,
+      },
+      {
+        image: require("./ImagesPapers/elements_main2.png").default,
+      },
+      {
+        image: require("./ImagesPapers/elements2.png").default,
+      },
+    ],
     image: require("./ImagesPapers/elements main.png").default,
     text: "Elements Artesano Tray + Papers + Tips",
     star: 1,
@@ -25,6 +47,17 @@ export const ProductData = [
   },
   {
     id: "3",
+    images: [
+      {
+        image: require("./ImagesPapers/elements perforated.png").default,
+      },
+      {
+        image: require("./ImagesPapers/elements_perforated2.png").default,
+      },
+      //   {
+      //     image: require("./ImagesPapers/420zback.png").default,
+      //   },
+    ],
     image: require("./ImagesPapers/elements perforated.png").default,
     text: "Elements King Size perforated tips",
     star: 1,
@@ -36,6 +69,14 @@ export const ProductData = [
   },
   {
     id: "4",
+    images: [
+      {
+        image: require("./ImagesPapers/greengo main.png").default,
+      },
+      {
+        image: require("./ImagesPapers/greengo.png").default,
+      },
+    ],
     image: require("./ImagesPapers/greengo main.png").default,
     text: "Greengo 2in1 Papers + Filtertips",
     star: 3,
@@ -47,6 +88,17 @@ export const ProductData = [
   },
   {
     id: "5",
+    images: [
+      {
+        image: require("./ImagesPapers/jilter.png").default,
+      },
+      {
+        image: require("./ImagesPapers/jilter1.png").default,
+      },
+      {
+        image: require("./ImagesPapers/jilter2.png").default,
+      },
+    ],
     image: require("./ImagesPapers/jilter.png").default,
     text: "Jilter smoke kit, 32 papers,tips and filters",
     star: 1,
@@ -58,6 +110,20 @@ export const ProductData = [
   },
   {
     id: "6",
+    images: [
+      {
+        image: require("./ImagesPapers/kukuxumusu.png").default,
+      },
+      {
+        image: require("./ImagesPapers/kukuxumusu1.png").default,
+      },
+      {
+        image: require("./ImagesPapers/kukuxumusu3.png").default,
+      },
+      {
+        image: require("./ImagesPapers/kukuxumusu4.png").default,
+      },
+    ],
     image: require("./ImagesPapers/kukuxumusu.png").default,
     text: "Smoking Kukuxumusu King Size slim Papers",
     star: 1,
@@ -70,6 +136,14 @@ export const ProductData = [
 
   {
     id: "7",
+    images: [
+      {
+        image: require("./ImagesPapers/mean green.png").default,
+      },
+      {
+        image: require("./ImagesPapers/mean green back.png").default,
+      },
+    ],
     image: require("./ImagesPapers/mean green.png").default,
     text: "Cyclones Mean Green pre-rolled blunts from herbs",
     star: 1,
@@ -81,6 +155,14 @@ export const ProductData = [
   },
   {
     id: "8",
+    images: [
+      {
+        image: require("./ImagesPapers/raw classic.png").default,
+      },
+      {
+        image: require("./ImagesPapers/raw classic2.png").default,
+      },
+    ],
     image: require("./ImagesPapers/raw classic.png").default,
     text: "RAW Black Classic",
     star: 3,
@@ -91,6 +173,14 @@ export const ProductData = [
   },
   {
     id: "9",
+    images: [
+      {
+        image: require("./ImagesPapers/raw wide tips.png").default,
+      },
+      {
+        image: require("./ImagesPapers/raw wide tips back.png").default,
+      },
+    ],
     image: require("./ImagesPapers/raw wide tips.png").default,
     text: "RAW Wide Tips King Size",
     star: 1,
@@ -102,6 +192,14 @@ export const ProductData = [
   },
   {
     id: "10",
+    images: [
+      {
+        image: require("./ImagesPapers/raw.png").default,
+      },
+      {
+        image: require("./ImagesPapers/raw1.png").default,
+      },
+    ],
     image: require("./ImagesPapers/raw.png").default,
     text: "RAW CLASSIC ROLLING PAPERS",
     star: 1,
@@ -113,6 +211,17 @@ export const ProductData = [
   },
   {
     id: "11",
+    images: [
+      {
+        image: require("./ImagesPapers/seda.png").default,
+      },
+      {
+        image: require("./ImagesPapers/seda1.png").default,
+      },
+      {
+        image: require("./ImagesPapers/seda back.png").default,
+      },
+    ],
     image: require("./ImagesPapers/seda.png").default,
     text: "SEDA ECO tips with actual seeds",
     star: 1,
@@ -124,6 +233,14 @@ export const ProductData = [
   },
   {
     id: "12",
+    images: [
+      {
+        image: require("./ImagesPapers/trip.png").default,
+      },
+      {
+        image: require("./ImagesPapers/trip back.png").default,
+      },
+    ],
     image: require("./ImagesPapers/trip.png").default,
     text: "Trip2 Transparent Clear Papers",
     star: 1,
@@ -135,6 +252,11 @@ export const ProductData = [
   },
   {
     id: "13",
+    images: [
+      {
+        image: require("./ImagesPapers/rawket.png").default,
+      },
+    ],
     image: require("./ImagesPapers/rawket.png").default,
     text: "RAW RAWket 5 Cones of different Sizes",
     star: 1,
@@ -147,6 +269,11 @@ export const ProductData = [
 
   {
     id: "14",
+    images: [
+      {
+        image: require("./ImagesOthers/alien head key chain black.jpg").default,
+      },
+    ],
     image: require("./ImagesOthers/alien head key chain black.jpg").default,
     text: "alien head key chain(black)",
     star: 1,
@@ -158,6 +285,11 @@ export const ProductData = [
   },
   {
     id: "15",
+    images: [
+      {
+        image: require("./ImagesOthers/alien head key chain.jpg").default,
+      },
+    ],
     image: require("./ImagesOthers/alien head key chain.jpg").default,
     text: "alien head key chain(aqua green)",
     star: 1,
@@ -169,6 +301,11 @@ export const ProductData = [
   },
   {
     id: "16",
+    images: [
+      {
+        image: require("./ImagesOthers/alien head key chain1.jpg").default,
+      },
+    ],
     image: require("./ImagesOthers/alien head key chain1.jpg").default,
     text: "alien head key chain(blue)",
     star: 3,
@@ -180,6 +317,11 @@ export const ProductData = [
   },
   {
     id: "17",
+    images: [
+      {
+        image: require("./ImagesOthers/alien head key chain2.jpg").default,
+      },
+    ],
     image: require("./ImagesOthers/alien head key chain2.jpg").default,
     text: "alien head key chain(red)",
     star: 1,
@@ -191,6 +333,11 @@ export const ProductData = [
   },
   {
     id: "18",
+    images: [
+      {
+        image: require("./ImagesOthers/alien head key chain3.jpg").default,
+      },
+    ],
     image: require("./ImagesOthers/alien head key chain3.jpg").default,
     text: "alien head key chain(flouracent green)",
     star: 1,
@@ -203,6 +350,11 @@ export const ProductData = [
 
   {
     id: "19",
+    images: [
+      {
+        image: require("./ImagesOthers/alien head key chain4.jpg").default,
+      },
+    ],
     image: require("./ImagesOthers/alien head key chain4.jpg").default,
     text: "alien head key chain",
     star: 1,
@@ -214,6 +366,11 @@ export const ProductData = [
   },
   {
     id: "20",
+    images: [
+      {
+        image: require("./ImagesOthers/blue ash tray.jpg").default,
+      },
+    ],
     image: require("./ImagesOthers/blue ash tray.jpg").default,
     text: "Blue Resin Round Ashtray",
     star: 3,
@@ -226,6 +383,11 @@ export const ProductData = [
 
   {
     id: "21",
+    images: [
+      {
+        image: require("./ImagesOthers/lung ashtray.jpg").default,
+      },
+    ],
     image: require("./ImagesOthers/lung ashtray.jpg").default,
     text: "Resin Lungs Ashtray",
     star: 3,
