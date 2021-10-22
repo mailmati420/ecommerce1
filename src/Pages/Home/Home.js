@@ -181,7 +181,8 @@ function Home() {
            </div>
             <div className="col-3">
                     <i className="fa fa-quote-left"></i>
-                      <p>The best of the best products you can get from here at a very cheap rate everything about this service is awesome.</p>
+                      <p>I would recommend this site to every friend of mine as they offer extremely good  quality products ,excellent rates& packaging .
+Customer support was very helpful as well.</p>
                       <div className="rating">
                            <i className="fa fa-star"></i>
                            <i className="fa fa-star"></i>
@@ -194,7 +195,7 @@ function Home() {
            </div>
             <div className="col-3">
                     <i className="fa fa-quote-left"></i>
-                      <p>The best of the best products you can get from here at a very cheap rate everything about this service is awesome.</p>
+                      <p> If it's your first time buying from here, well believe me "You will never need anything else", they got everything that I needed. Even the delivery was quick and secretive, so I was able to order while at home. Overall they get my thumb's up 👍👍.</p>
                       <div className="rating">
                            <i className="fa fa-star"></i>
                            <i className="fa fa-star"></i>
@@ -203,7 +204,7 @@ function Home() {
                            <i className="fa fa-star-half-o"></i>
                        </div>
                        <img src={require('./Image/user-3.png').default} alt=""/>
-                       <h3>kamla</h3>
+                       <h3>Shubham</h3>
            </div>
        </div>
        </div>
