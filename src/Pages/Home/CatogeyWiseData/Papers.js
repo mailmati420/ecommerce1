@@ -1,3 +1,5 @@
+//Papers
+
 export const Papers = [
   {
     id: "1",
@@ -19,7 +21,7 @@ export const Papers = [
     price: 99,
     quantity: "IN STOCK",
     productDetails:
-      "Each booklet contains 33 king size papers.420z papers, made from alfalfa ensure *slow and even burning*",
+      "Each booklet contains 33 king size papers.420z papers, made from alfalfa ensure slow and even burning",
   },
   {
     id: "2",
