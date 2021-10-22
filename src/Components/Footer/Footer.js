@@ -26,11 +26,15 @@ const Footer = () => {
                             <div className="links">
 
                                 <a href = "https://www.facebook.com/profile.php?id=100073372615783">
-                                <FaFacebook/>
+                                <img src = {require('../../Logo/fb.svg').default} ></img>
                                 </a>
                                
+                                <a href = "https://twitter.com/blazeupindia?t=gWBm9VBismSabAtDIM02Bw&s=08">
+                                <img src = {require('../../Logo/twitter.svg').default} ></img>
+                                </a>
+                                
                                 <a href= "https://www.instagram.com/blazeupindia/">
-                                <FaInstagram/>
+                                 <img src = {require('../../Logo/insta.svg').default} ></img>
                                 </a>
                                 {/* <FaYoutube/> */}
                                 </div>
