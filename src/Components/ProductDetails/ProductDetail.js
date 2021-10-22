@@ -24,7 +24,7 @@ function ProductDetail(props) {
       <div class="small-container">
         <div class="row">
           <div class="col-2">
-            <Corousel slides = {props.location.state.myArrayVariableName.images} />
+            <Corousel slides = {props.location.state ? props.location.state.myArrayVariableName.images : ''} />
             {/* <img
               src={
                 props.location.state
