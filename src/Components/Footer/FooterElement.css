@@ -32,12 +32,22 @@
 }
 .footer-col2{
     
-    text-align: center;
+    text-align: left;
 }
 .footer-col2 img{
     width: 180px;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
 }
+.footer-col9{
+    text-align:justify;
+}
+.footer-col9 img{
+    width:100px;
+    margin-left:0px;
+    margin-bottom: 0px;
+
+}
+
 .footer-col3,.footer-col4{
     flex-basis: 12%;
     text-align: center;
