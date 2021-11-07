@@ -16,6 +16,10 @@ const Footer = () => {
                     <div className = "foot">                       
                         <div className = "footer-col2">
                             <img src = {require('../../Logo/logo2.png').default} ></img>
+                            <div className = "footer-col9"></div>
+                            <a href = "https://www.freeprivacypolicy.com/live/4500019d-c3fa-41bb-b0af-63ce534b8db0">
+                                <img src = {require('../../Logo/Privacy.png').default} ></img>
+                                </a>
                             
                         </div>
                         
@@ -36,6 +40,8 @@ const Footer = () => {
                                 <a href= "https://www.instagram.com/blazeupindia/">
                                  <img src = {require('../../Logo/insta.svg').default} ></img>
                                 </a>
+
+                             
                                 {/* <FaYoutube/> */}
                                 </div>
                             
